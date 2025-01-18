@@ -16,6 +16,12 @@
   gap:50px;
 }
 
+.line{
+  width: 80%;
+  border: 10px solid rgba(1,1,1,0.2);
+  border-radius: 50%;
+}
+
 h1{
   font-size: 4em;
   font-weight: 800;

@@ -4,6 +4,12 @@
   box-sizing: border-box;
 }
 
+.page-holder{
+  border: 1px, solid, #000;
+  width:80%;
+  height:80vh;
+}
+
 h1{
   font-size: 2em;
   font-weight: 800;

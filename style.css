@@ -5,22 +5,29 @@
 }
 
 .page-holder{
-  border: 1px, solid, #000;
+  border: 5px, solid, blue;
   width:80%;
   height:80vh;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap:50px;
 }
 
 h1{
-  font-size: 2em;
+  font-size: 4em;
   font-weight: 800;
   color: red;
   text-align: center;
   align-items: center;
   text-transform: uppercase;
+  text-decoration: underline;
 }
 
 p{
-  font-size: 1em;
+  font-size: 2em;
   font-weight: 100;
   color: red;
   text-align: center;

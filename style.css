@@ -5,7 +5,7 @@
 }
 
 .page-holder{
-  border: 5px, solid, blue;
+  border: 15px, solid, rgba(1,1,1, 0.2);
   width:80%;
   height:95vh;
   margin: 10px auto;
@@ -14,6 +14,8 @@
   align-items: center;
   justify-content: center;
   gap:50px;
+  background-color: rgba(100,100,200,0.2);
+  padding: 10px;
 }
 
 .line{
